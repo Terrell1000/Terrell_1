@@ -1,1 +1,3 @@
 test.txt
+git clone https://github.com/heroku/java-getting-started.git
+$ cd java-getting-started
